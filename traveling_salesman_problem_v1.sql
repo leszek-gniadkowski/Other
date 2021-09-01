@@ -47,7 +47,7 @@ DCBA	92		D,A,BC		DCBA
 DACB	91		D,B,AC		eliminacja
 DCAB	90		D,B,AC		DCAB
 DABC	89		D,C,AB		eliminacja
-DBAC	88		D,C,AB		wybór
+DBAC	88		D,C,AB		DBAC
 
 Po eliminacjach rozszerzam do 5 poziomu w oparciu o dostępne drogi, znowu grupuję i elimnuję i tak do końca
 
