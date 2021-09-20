@@ -14,7 +14,7 @@ Przykład dla 4 - AXYB i AYXB
 Przykład dla 5 - AXYZB, AXZYB, AYXZB, AYZXB, AZXYB i AZYXB
 
 Te drogi mają wspólne początki i końce, przechodzą wszystkie również przez te same węzły, mają jednak różne sumy wag.
-Zakładam że można eliminować we wszsytkich kombinacjach te fragmenty, które mają mniejszą wagę.
+Zakładam że można eliminować we wszsytkich kombinacjach te fragmenty, które mają większą wagę.
 Budując drzewo od dołu mając dwie gałęzie AXYB i AYXB mogę wyeliminować tę, która ma większą wagę.
 Poza wagą różnią się tylko kolejnością odwiedzenia węzłów pośrednich.
 
